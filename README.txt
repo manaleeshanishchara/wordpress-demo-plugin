@@ -1,3 +1,6 @@
+wordpress-demo-plugin
+This is my WordPress demo plugin for learning purpose.
+
 === Guest Post/Page Submission Plugin ===
 Contributors: manalee
 Tags: User Registration
